@@ -1,0 +1,46 @@
+{
+  "name": "kung-fig-tree-ops",
+  "version": "0.45.4",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "description": "Tree operations for Kung Fig.",
+  "main": "lib/treeOps.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "tea-time -R dot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/kung-fig-tree-ops.git"
+  },
+  "keywords": [
+    "kung-fig",
+    "tree",
+    "operation"
+  ],
+  "author": "Cédric Ronvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/kung-fig-tree-ops/issues"
+  },
+  "config": {
+    "tea-time": {
+      "coverDir": [
+        "lib"
+      ]
+    }
+  },
+  "copyright": {
+    "title": "Kung Fig Tree Ops",
+    "years": [
+      2015,
+      2018
+    ],
+    "owner": "Cédric Ronvel"
+  }
+}
