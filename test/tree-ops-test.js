@@ -1,7 +1,7 @@
 /*
 	Kung Fig Tree Ops
 
-	Copyright (c) 2015 - 2018 Cédric Ronvel
+	Copyright (c) 2015 - 2020 Cédric Ronvel
 
 	The MIT License (MIT)
 

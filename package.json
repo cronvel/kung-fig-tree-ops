@@ -1,6 +1,6 @@
 {
   "name": "kung-fig-tree-ops",
-  "version": "0.45.4",
+  "version": "0.45.5",
   "engines": {
     "node": ">=6.0.0"
   },
@@ -39,7 +39,7 @@
     "title": "Kung Fig Tree Ops",
     "years": [
       2015,
-      2018
+      2020
     ],
     "owner": "Cédric Ronvel"
   }
